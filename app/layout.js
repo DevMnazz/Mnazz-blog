@@ -1,4 +1,4 @@
-import './navbar.css';
+import './global.css';
 
 export const metadata = {
   title: 'Next.js',
@@ -13,6 +13,7 @@ export default function RootLayout({ children }) {
       </head>
       <body style={{ fontFamily: 'Roboto, Arial, sans-serif' }}>
         <div className="topnav">
+          <a id="navlogo">Mnazz</a>
           <a href="#blog">Blog</a>
           <a href="#videos">Videos</a>
           <a href="#about">About</a>
