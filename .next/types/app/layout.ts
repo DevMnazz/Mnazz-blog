@@ -1,4 +1,4 @@
-// File: /Users/mnazz/Documents/practice/app/layout.js
+// File: /Users/mnazz/Documents/mnazz-blog/app/layout.js
 import * as entry from '../../../app/layout.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
